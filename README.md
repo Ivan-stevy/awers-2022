@@ -1,2 +1,3 @@
 # awers-2022
-Sample Git project 
+Sample Git project
+we are are going to school 
